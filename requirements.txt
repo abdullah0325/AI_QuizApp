@@ -1,0 +1,7 @@
+flask==3.0.2
+gunicorn
+langchain==0.1.12
+langchain-openai==0.0.8
+python-dotenv==1.0.1
+pydantic==2.6.4
+requests==2.31.0
